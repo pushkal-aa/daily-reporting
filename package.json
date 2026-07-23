@@ -1,0 +1,12 @@
+{
+  "name": "aries-bq-raw-pull",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@google-cloud/bigquery": "^7.9.0",
+    "googleapis": "^140.0.0"
+  }
+}
